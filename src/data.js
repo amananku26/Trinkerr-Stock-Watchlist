@@ -1,4 +1,4 @@
-[
+export const Data =  [
     [
         "ASIANPAINT::NSE",
         3143.65,
